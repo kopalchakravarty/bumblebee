@@ -7,8 +7,8 @@ Bumblebee is a platform agnostic, containerized ETL pipeline, by which users can
 
 Bumblebee uses a client-server architecture. The client sends a request to the server which performs data transformations and generate output files in the desired formats. 
 Communication takes place using a REST API. 
+![Picture 1](https://user-images.githubusercontent.com/31576619/178139965-a9eaf0e2-531c-4960-986d-e40a7c454e38.jpg)
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/31576619/178139535-c3cf233d-fb0f-4aaa-ba96-4d1dfda16bef.png">
 
 ##### Bumblebee Server
 The server provides endpoints and listens to incoming API requests. Bumblebee currently supports GET and POST requests. 
