@@ -1,6 +1,6 @@
 # Bumblebee
 
-Bumblebee is a platform agnostic, containerized ETL pipeline which supports data transformation interchangeably between CSV, JSON, AVRO and PARQUET formats.
+A platform agnostic, containerized ETL pipeline which supports data transformation interchangeably between CSV, JSON, AVRO and PARQUET formats.
 
 ## Key Topics
 * [Architecture](#architecture)
