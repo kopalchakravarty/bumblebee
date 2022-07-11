@@ -7,7 +7,7 @@ Bumblebee is a platform agnostic, containerized ETL pipeline, by which users can
 * [Architecture](#architecture)
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
-   * [Source and Destination](#source-bucketgithub-repo-and-output-destination)
+   * [Source and Destination](#source-bucketgithub-repo-and-output-bucket)
    * [Server Setup](#bumblebee-server-1)
    * [JWT Token generation](#jwt-token-generation)
    * [Initiate Conversion](#initiate-conversion)
@@ -39,7 +39,7 @@ Main function parses the configuration file and calls resepctive functions to ca
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=Google-cloud&logoColor=white&color=2bbc8a)
 
 ## Setup
-#### Source Bucket/Github Repo and Output destination
+#### Source Bucket/Github Repo and Output Bucket
 * The users need to input a source bucket which contains the files they want to be converted, or the URL with the files
 * An output destination is required
 
