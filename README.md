@@ -7,7 +7,7 @@ Bumblebee is a platform agnostic, containerized ETL pipeline, by which users can
 * [Architecture](#architecture)
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
-   * [Source and Destination](#Source-Bucket/URL-and-Output-destination)
+   * [Source and Destination](#source-bucketurl-and-output-destination)
    * [Server Setup](#Bumblebee-Server)
    * [JWT Token generation](#JWT-Token-generation)
    * [Initiate Conversion](#Initiate-Conversion)
