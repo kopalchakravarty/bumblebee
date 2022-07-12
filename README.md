@@ -7,7 +7,7 @@ A platform agnostic, containerized ETL pipeline which supports data transformati
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
    * [Source and Destination](#source-bucketgithub-repo-and-output-bucket)
-   * [Server Setup](#bumblebee-server-1)
+   * [Server Setup](#bumblebee-server)
    * [JWT Token generation](#jwt-token-generation)
    * [Initiate Conversion](#initiate-conversion)
       * [JSON Payload](#json-payload)    
